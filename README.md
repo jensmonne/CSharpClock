@@ -1,4 +1,4 @@
-# Customizable Clock Wallpaper for Wallpaper Engine
+# C# Clock Wallpaper for Wallpaper Engine
 
 A lightweight and highly optimized wallpaper for **Wallpaper Engine** with a few in-app customization options.
 
